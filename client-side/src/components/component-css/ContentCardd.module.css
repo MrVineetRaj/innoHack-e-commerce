@@ -1,0 +1,12 @@
+.card img{
+  height: 200px;
+  width: auto;
+}
+.card{
+  height: 320px;
+  margin: 10px;
+  text-align: left;
+}
+.card button{
+  width: 100%;
+}

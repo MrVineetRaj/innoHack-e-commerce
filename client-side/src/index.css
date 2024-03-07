@@ -1,0 +1,15 @@
+:root{
+  --bg-color-1:white;
+  --bg-color-2:black;
+  --border-color-1:grey;
+
+}
+
+body{
+  margin: 0;
+  width: 100vw;
+}
+
+button:active{
+  transform:scale(0.8);
+}

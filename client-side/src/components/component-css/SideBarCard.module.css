@@ -1,0 +1,16 @@
+.sideBarCard{
+  color: black;
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  border-radius:10px ;
+  margin: 20px 0 0 0;
+  padding: 10px 0;
+  background: white;
+  cursor: pointer;
+}
+.sideBarCard img{
+  width: 80px;
+  background: white;
+}
+

@@ -1,0 +1,23 @@
+{
+  "earphones": [
+      {
+        "brand": "Boult",
+        "model": "Boult Audio Z40 Pro",
+        "color": "grey",
+        "weight": "50 gm",
+        "wireless": "Yes",
+        "batteryLife": "100H",
+        "price": "1599 /- rs",
+        "noiseCancelling": "ENC"
+      },{
+        "brand": "Oppo",
+        "model": "OPPO Enco Air 2 Pro",
+        "color": "white",
+        "weight": "38 gm",
+        "wireless": "Yes",
+        "batteryLife": "28H",
+        "price": "3549 /- rs",
+        "noiseCancelling": "ANC"
+      }
+  ]
+}
